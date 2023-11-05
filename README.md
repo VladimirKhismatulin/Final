@@ -11,4 +11,4 @@
 - [Прошлый Дискорд бот с мемами](https://github.com/VladimirKhismatulin/M2L2) 
 
 ## Гайды-статьи, где есть полезная для меня информация
-[Генератор мемов](https://www.meme-arsenal.com)
+- [Генератор мемов](https://www.meme-arsenal.com)
