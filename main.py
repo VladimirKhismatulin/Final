@@ -8,7 +8,10 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 images = os.listdir('images')
-hints = ["hints"]
+hints = ["Глобальное потепление - это проблема каждого.",
+         "Экологичная жизнь - это ключ к предотвращению глбального потепления",
+         "Ты заботишься о природе?",
+         "Глобальное потепление - то, что нельзя игнорировать."]
 
 @bot.event
 async def on_ready():
